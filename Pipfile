@@ -4,9 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
-whitenoise = "*"
-psycopg2 = "*"
+asgiref = "==3.4.1"
+psycopg2 = "==2.9.2"
+sqlparse = "==0.4.2"
+whitenoise = "==5.3.0"
+Django = "==4.0"
 
 [dev-packages]
 
