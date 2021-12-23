@@ -1,5 +1,6 @@
 secret_settings.py
-onlineportfolio/Pipfile
-onlineportfolio/Pipfile.lock
+/onlineportfolio/Pipfile
+*.lock
 *.logs
 .vscode/
+*.mp4
